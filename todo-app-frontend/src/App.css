@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(135deg, #fcad83, #d65e2a);
+  overflow: hidden;
+}
+
+div.main {
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  margin-top: 120px;
+  border-radius: 16px;
+}

@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.4rem;
+  margin: 0 10px;
+  color: rgb(71, 71, 219);
+}
+
+i[class*="fa-table-list"] {
+  font-size: 1.8rem;
+  color: #fcad83;
+}
